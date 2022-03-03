@@ -9,8 +9,8 @@ export const styles = StyleSheet.create({
   },
   image: {    
     alignSelf: 'center',
-    width: 332,
-    height: 185,
+    width: 320,
+    height: 190,
     marginBottom: 50,
     marginTop: 300,
   },
